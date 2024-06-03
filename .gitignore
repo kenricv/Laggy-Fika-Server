@@ -1,0 +1,6 @@
+/BepInEx
+/cache
+/core
+/patchers
+*.log
+*.csv
