@@ -15,5 +15,14 @@
 !/BepInEx/plugins/
 !/BepInEx/plugins/*
 !/BepInEx/plugins/**
+!/EscapeFromTarkov_Data/
+!/EscapeFromTarkov_Data/StreamingAssets/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/textures/
+!/EscapeFromTarkov_Data/StreamingAssets/Windows/assets/standard assets/effects/lightcookies/textures/*
 *.csv
 *.log
